@@ -25,7 +25,8 @@ print(num3)
 
 ```
 ## OUTPUT
-<img width="928" height="318" alt="image" src="https://github.com/user-attachments/assets/fdc40621-eb1f-4544-8c0b-ec0f78dc09eb" />
+<img width="1180" height="257" alt="image" src="https://github.com/user-attachments/assets/1c6d4f24-d573-4729-b45f-8d37f94bbb4a" />
+
 
 ## RESULT
 The program successfully prints the integer literals 123, 456, 789.
