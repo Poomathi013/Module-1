@@ -30,5 +30,7 @@ print(f"The minimum of {num1}, {num2}, {num3} is {min_num}")
 ```
 
 ## OUTPUT
+<img width="1255" height="482" alt="image" src="https://github.com/user-attachments/assets/e18a5123-cf33-4e72-ab8a-4eb7697d7d0f" />
 
 ## RESULT
+The program successfully finds and displays the minimum value among three integer numbers using a conditional (ternary) operator
